@@ -1,11 +1,6 @@
 config:
   info: main branch - config-dev.yml - version 1
 
-
-server:
-  port: 3344
-
-
 spring:
   application:
     name: cloud-config-center
