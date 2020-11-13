@@ -1,4 +1,5 @@
-# config-test-main
+config:
+  info: main branch - config-test.yml - version 1
 server:
   port: 3344
 
